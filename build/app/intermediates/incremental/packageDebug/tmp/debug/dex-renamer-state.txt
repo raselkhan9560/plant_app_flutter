@@ -1,0 +1,4 @@
+#Tue Jan 12 21:16:00 BDT 2021
+base.0=/home/codestone/flutter_proj/plant_app_flutter/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
